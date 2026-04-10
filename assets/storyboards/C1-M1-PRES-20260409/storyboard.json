@@ -1,6 +1,6 @@
 {
   "storyboard_version": 3,
-  "generated_at": "2026-04-10T04:27:50.678529+00:00",
+  "generated_at": "2026-04-10T04:29:29.722365+00:00",
   "source_payload": "pass2-envelope.json",
   "asset_base": ".",
   "storyboard_view": "slides_with_script",
@@ -1084,7 +1084,20 @@
         }
       ]
     },
-    "script_policy": {},
+    "script_policy": {
+      "narration_density": {
+        "target_wpm": 150,
+        "mean_words_per_slide": 95,
+        "min_words_per_slide": 25,
+        "max_words_per_slide": 220
+      },
+      "engagement_stance": {
+        "posture": "collegial_guide",
+        "direct_address": true,
+        "rhetorical_questions": "moderate",
+        "clinical_vignettes": "permitted"
+      }
+    },
     "voice_direction_defaults": {
       "stability": 0.5,
       "similarity_boost": 0.75,
