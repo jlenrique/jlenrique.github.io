@@ -95,7 +95,10 @@ main.grid, .card { scroll-margin-top: 132px; }
 /* inline slot chips, each with a discoverable clear ✕ */
 .slots { display: inline-flex; gap: 8px; align-items: center; flex-wrap: wrap;
   margin: 0; }
-.slots #slot-B-wrap { display: inline-flex; }
+/* only give the wrap a display when it is SHOWN — a bare `display` here would beat
+   the UA `[hidden]{display:none}` rule and leave Slot B permanently visible even
+   in 1-version mode (the `hidden` attribute is JS-toggled via slotBWrap.hidden). */
+.slots #slot-B-wrap:not([hidden]) { display: inline-flex; }
 .slot { display: inline-flex; align-items: center; gap: 6px; padding: 3px 8px;
   border: 1px solid #b9c3cd; border-radius: 8px; font-size: 0.85rem;
   background: #f4f6f8; }
