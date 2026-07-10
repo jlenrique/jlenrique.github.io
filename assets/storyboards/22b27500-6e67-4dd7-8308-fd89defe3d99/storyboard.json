@@ -1,6 +1,6 @@
 {
   "storyboard_version": 3,
-  "generated_at": "2026-07-10T04:58:12.890706+00:00",
+  "generated_at": "2026-07-10T05:15:15.025486+00:00",
   "source_payload": "gary-dispatch-payload.json",
   "asset_base": ".",
   "storyboard_view": "slides_only",
@@ -95,9 +95,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1422
+        "height": 1350
       },
-      "aspect_ratio": "2400:1422",
+      "aspect_ratio": "2400:1350",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -161,9 +161,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1714
+        "height": 1892
       },
-      "aspect_ratio": "2400:1714",
+      "aspect_ratio": "2400:1892",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -227,9 +227,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1350
+        "height": 1666
       },
-      "aspect_ratio": "2400:1350",
+      "aspect_ratio": "2400:1666",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -293,9 +293,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1904
+        "height": 1638
       },
-      "aspect_ratio": "2400:1904",
+      "aspect_ratio": "2400:1638",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -359,9 +359,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1720
+        "height": 1900
       },
-      "aspect_ratio": "2400:1720",
+      "aspect_ratio": "2400:1900",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -491,9 +491,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1626
+        "height": 1814
       },
-      "aspect_ratio": "2400:1626",
+      "aspect_ratio": "2400:1814",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -722,9 +722,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1422
+        "height": 1350
       },
-      "aspect_ratio": "2400:1422",
+      "aspect_ratio": "2400:1350",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -788,9 +788,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1714
+        "height": 1892
       },
-      "aspect_ratio": "2400:1714",
+      "aspect_ratio": "2400:1892",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -854,9 +854,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1350
+        "height": 1666
       },
-      "aspect_ratio": "2400:1350",
+      "aspect_ratio": "2400:1666",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -920,9 +920,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1904
+        "height": 1638
       },
-      "aspect_ratio": "2400:1904",
+      "aspect_ratio": "2400:1638",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -986,9 +986,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1720
+        "height": 1900
       },
-      "aspect_ratio": "2400:1720",
+      "aspect_ratio": "2400:1900",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -1118,9 +1118,9 @@
       "orientation": "landscape",
       "dimensions": {
         "width": 2400,
-        "height": 1626
+        "height": 1814
       },
-      "aspect_ratio": "2400:1626",
+      "aspect_ratio": "2400:1814",
       "vera_score": null,
       "quinn_score": null,
       "findings": [],
@@ -1358,9 +1358,9 @@
             "orientation": "landscape",
             "dimensions": {
               "width": 2400,
-              "height": 1422
+              "height": 1350
             },
-            "aspect_ratio": "2400:1422",
+            "aspect_ratio": "2400:1350",
             "vera_score": null,
             "quinn_score": null,
             "findings": [],
@@ -1433,9 +1433,9 @@
             "orientation": "landscape",
             "dimensions": {
               "width": 2400,
-              "height": 1714
+              "height": 1892
             },
-            "aspect_ratio": "2400:1714",
+            "aspect_ratio": "2400:1892",
             "vera_score": null,
             "quinn_score": null,
             "findings": [],
@@ -1508,9 +1508,9 @@
             "orientation": "landscape",
             "dimensions": {
               "width": 2400,
-              "height": 1350
+              "height": 1666
             },
-            "aspect_ratio": "2400:1350",
+            "aspect_ratio": "2400:1666",
             "vera_score": null,
             "quinn_score": null,
             "findings": [],
@@ -1583,9 +1583,9 @@
             "orientation": "landscape",
             "dimensions": {
               "width": 2400,
-              "height": 1904
+              "height": 1638
             },
-            "aspect_ratio": "2400:1904",
+            "aspect_ratio": "2400:1638",
             "vera_score": null,
             "quinn_score": null,
             "findings": [],
@@ -1658,9 +1658,9 @@
             "orientation": "landscape",
             "dimensions": {
               "width": 2400,
-              "height": 1720
+              "height": 1900
             },
-            "aspect_ratio": "2400:1720",
+            "aspect_ratio": "2400:1900",
             "vera_score": null,
             "quinn_score": null,
             "findings": [],
@@ -1808,9 +1808,9 @@
             "orientation": "landscape",
             "dimensions": {
               "width": 2400,
-              "height": 1626
+              "height": 1814
             },
-            "aspect_ratio": "2400:1626",
+            "aspect_ratio": "2400:1814",
             "vera_score": null,
             "quinn_score": null,
             "findings": [],
